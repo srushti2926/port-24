@@ -1,0 +1,34 @@
+.head1 {
+  text-align: center;
+  color: rgb(160, 160, 160);
+}
+
+.head2 {
+  text-align: center;
+  margin-top: 1rem;
+  line-height: 1.5;
+  font-size: 2rem;
+}
+
+.label {
+  color: #f7054b;
+}
+
+.cardMain {
+  background-color: #1e1e1e;
+  width: 25%;
+  height: 15rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 15px;
+  margin-top: 5rem;
+  margin-bottom: 10rem;
+}
+
+.cardRow {
+  display: flex;
+  height: 25rem;
+  justify-content: space-evenly;
+}
